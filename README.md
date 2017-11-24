@@ -1,5 +1,5 @@
 # Netkeeper
-基于Openwrt的Netkeeper相关代码
+基于Openwrt的Netkeeper相关代码，可以实现多号多拨和单号双拨。
 
 # 写在前面的
 基于miao1007学长里面的pppoe拦截方法写的程序。
